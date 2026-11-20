@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=".banner.jpg"/>
+  <img src="./banner.png"/>
   <h1>mengzi</h1>
   <p>🎧 网易云重度用户 &nbsp;·&nbsp; 🛠 在别人的播放器里修 bug &nbsp;·&nbsp; 🐟 专业摸鱼</p>
 </div>
@@ -12,9 +12,9 @@
 
 ### 🎧 最近在折腾
 
-- 互帮互助(提pr
-- 给别人的项目捣乱(提issues
-- 和一块 STM32 板子互相较劲，目前它占上风
+- 互帮互助(提pr)
+- 给别人的项目捣乱(提issues)
+- 跟一块单片机板子互相较劲，目前它占上风
 
 ### 📮 找得到我
 
