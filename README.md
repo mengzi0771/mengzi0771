@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./banner.png"/>
   <h1>mengzi</h1>
-  <p>🎧 网易云重度用户 &nbsp;·&nbsp; 🛠 在别人的播放器里修 bug &nbsp;·&nbsp; 🐟 专业摸鱼</p>
+  <p>🎧 网易云重度用户 &nbsp;·&nbsp; 🛠 在项目里修 bug &nbsp;·&nbsp; 🐟 专业摸鱼</p>
 </div>
 
 <br />
